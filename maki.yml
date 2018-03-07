@@ -12,5 +12,5 @@ flow:
       runner:
           group: spark
           type: scala 
-      file: file2.scala
+      file: file.scala
 ...
